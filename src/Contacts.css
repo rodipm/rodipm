@@ -1,0 +1,19 @@
+.App-Contact {
+    display: flex;
+    margin-left:  50px;
+    margin-right:  50px;
+    margin-top: 30%;
+}
+
+.App-Contact-Icon {
+    padding-right: 10px;
+    width: 50px;
+}
+
+.App-Contact-Link {
+    display: flex;
+}
+
+.App-Contacts {
+    display: flex;
+}
